@@ -1,0 +1,2 @@
+Show me my Claude token usage and cost breakdown for this week.
+Include per-model stats and daily trend.
